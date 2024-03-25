@@ -1,0 +1,15 @@
+C:\Users\Kgalalelo\Documents\2nd Year\PRG261\Project\BC StudentManagementSystem\BC StudentManagementSystem\bin\Debug\net6.0\BC StudentManagementSystem.exe
+C:\Users\Kgalalelo\Documents\2nd Year\PRG261\Project\BC StudentManagementSystem\BC StudentManagementSystem\bin\Debug\net6.0\BC StudentManagementSystem.deps.json
+C:\Users\Kgalalelo\Documents\2nd Year\PRG261\Project\BC StudentManagementSystem\BC StudentManagementSystem\bin\Debug\net6.0\BC StudentManagementSystem.runtimeconfig.json
+C:\Users\Kgalalelo\Documents\2nd Year\PRG261\Project\BC StudentManagementSystem\BC StudentManagementSystem\bin\Debug\net6.0\BC StudentManagementSystem.dll
+C:\Users\Kgalalelo\Documents\2nd Year\PRG261\Project\BC StudentManagementSystem\BC StudentManagementSystem\bin\Debug\net6.0\BC StudentManagementSystem.pdb
+C:\Users\Kgalalelo\Documents\2nd Year\PRG261\Project\BC StudentManagementSystem\BC StudentManagementSystem\obj\Debug\net6.0\BC StudentManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Kgalalelo\Documents\2nd Year\PRG261\Project\BC StudentManagementSystem\BC StudentManagementSystem\obj\Debug\net6.0\BC StudentManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kgalalelo\Documents\2nd Year\PRG261\Project\BC StudentManagementSystem\BC StudentManagementSystem\obj\Debug\net6.0\BC StudentManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Kgalalelo\Documents\2nd Year\PRG261\Project\BC StudentManagementSystem\BC StudentManagementSystem\obj\Debug\net6.0\BC StudentManagementSystem.AssemblyInfo.cs
+C:\Users\Kgalalelo\Documents\2nd Year\PRG261\Project\BC StudentManagementSystem\BC StudentManagementSystem\obj\Debug\net6.0\BC StudentManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Kgalalelo\Documents\2nd Year\PRG261\Project\BC StudentManagementSystem\BC StudentManagementSystem\obj\Debug\net6.0\BC StudentManagementSystem.dll
+C:\Users\Kgalalelo\Documents\2nd Year\PRG261\Project\BC StudentManagementSystem\BC StudentManagementSystem\obj\Debug\net6.0\refint\BC StudentManagementSystem.dll
+C:\Users\Kgalalelo\Documents\2nd Year\PRG261\Project\BC StudentManagementSystem\BC StudentManagementSystem\obj\Debug\net6.0\BC StudentManagementSystem.pdb
+C:\Users\Kgalalelo\Documents\2nd Year\PRG261\Project\BC StudentManagementSystem\BC StudentManagementSystem\obj\Debug\net6.0\BC StudentManagementSystem.genruntimeconfig.cache
+C:\Users\Kgalalelo\Documents\2nd Year\PRG261\Project\BC StudentManagementSystem\BC StudentManagementSystem\obj\Debug\net6.0\ref\BC StudentManagementSystem.dll
